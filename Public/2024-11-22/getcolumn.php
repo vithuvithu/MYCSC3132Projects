@@ -50,5 +50,5 @@ function PrintTableCols($tableName,$connect,$colnames)
 		die($e->getMessage());
 	}
 }
-PrintTableCols("student",$connect,["name","age","gender"]);
+PrintTableCols("student",$connect,["name","age","genter"]);
 ?>
