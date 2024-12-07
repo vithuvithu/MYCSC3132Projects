@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>2020/ASP/02</h1><br><br>
+    <h1>2020/ASP/86</h1><br><br>
 
     <a href="gettable.php">Gettable</a><br>
     
