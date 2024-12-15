@@ -89,8 +89,8 @@
 </head>
 <body>
 <?php
-require_once 'conf/conf.php';
-require_once 'func/func.php';
+require_once 'conf.php';
+require_once 'func.php';
 $e1=false; $e2=false; $e3=false; $e4=false;
 ?>
 <div class="main">
